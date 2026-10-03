@@ -1,0 +1,17 @@
+SIMULATION DU PROCEDE - ACETONE
+Modèle : Loi de Raoult
+
+Débit entrée : 38.00 kg/h
+T entrée : 10.00 °C
+P entrée : 1.00 atm
+
+Débit 40 % : 15.20 kg/h
+Débit 60 % : 22.80 kg/h
+
+T ébullition : 56.19 °C
+T ébullition : 329.34 K
+
+Q chauffage : 2264.10 kJ/h
+Q vaporisation : 11810.40 kJ/h
+Q total : 14074.50 kJ/h
+Puissance thermique : 3.91 kW
